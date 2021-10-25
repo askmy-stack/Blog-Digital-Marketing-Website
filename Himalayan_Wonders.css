@@ -1,0 +1,51 @@
+*
+{
+    color: #ffffff;
+    margin-right: auto;
+    background-color: #141313;
+}
+
+h1
+{
+    float: auto;
+    font-family: inherit;
+    font-size: 50px;
+    margin-left: 800px;
+    margin-top: 30px;
+    margin-bottom: 0px;
+    margin-right: auto;
+}
+
+.logo
+{
+    float: left;
+    margin-top: 10px;
+    box-sizing: 50%;
+}
+
+.image Himalayan%20Wonders%20Logo.png
+{
+    height: 80px;
+    width: 100px;
+}
+.image
+{
+    box-sizing: 75%;
+    float:left;
+    padding-top: 0px;
+    margin-top: 80px;
+    margin-right: auto;
+    margin-left: 0px;
+}
+
+.Link
+{   
+    float: auto;
+    padding: 25px;
+    padding-bottom: 10px;
+    padding-left: 0px;
+    font-size: 25px;
+    margin-top: 25px;
+    margin-left: 800px;
+    margin-right: 100px;
+}

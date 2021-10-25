@@ -1,0 +1,52 @@
+*
+{
+ padding: 0px;
+ color: aliceblue;
+ font-family: sans-serif;
+ background-image: url("Our.png");
+}
+
+h2
+{   font-size: 60px;
+    color: darkgrey;
+    font-display: auto;
+    text-align: justify;
+    margin-bottom: 60px; 
+}
+
+.image
+{   
+    height: 30%;
+    width: 30%;
+}
+
+.left-side
+{
+    font-size: 40px;
+    margin-left: 250px;
+    float: left;
+}
+
+.blogs
+{
+    right: 60px;
+    float: left;
+    margin-top: 0px;
+    margin-left: 150px;
+}
+
+.Education
+{
+    border-bottom: 2px solid #3c3b3b;
+}
+
+.Health
+{
+    border-bottom: 2px solid #3c3b3b;
+}
+
+.nature
+{
+    border-top: 2px solid #3c3b3b;
+    border-bottom: 2px solid #3c3b3b;
+}

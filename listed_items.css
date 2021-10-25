@@ -1,0 +1,50 @@
+*
+{
+ padding: 0px;
+ background-color: #141414;
+ color: aliceblue;
+ font-family: sans-serif;
+ background-image: url("Our.png")
+}
+
+h2
+{   font-size: 40px;
+    color: darkgrey;
+    font-display: auto;
+    text-align: left;
+    margin-bottom: 60px; 
+    letter-spacing: 150%;
+
+}
+
+.image
+{   
+    height: 30%;
+    width: 30%;
+    margin-left: 40px;
+}
+
+.left-side
+{
+    font-size: 30px;
+    margin-left: 120px;
+    float: left;
+
+}
+.blogs{
+    text-align: right;
+    border-top: 2px solid #3c3b3b;
+    border-bottom: 2px solid #3c3b3b;
+}
+
+.Newsletter{
+    text-align: right;
+    border-top: 2px solid #3c3b3b;
+    border-bottom: 2px solid #3c3b3b;
+}
+
+.Digital-Marketing-Forum{
+    text-align: center;
+    border-top: 2px solid #3c3b3b;
+    border-bottom: 2px solid #3c3b3b;
+}

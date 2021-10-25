@@ -1,0 +1,74 @@
+*
+{
+    color: #ffffff;
+    margin-right: auto;
+    background-color: black;
+}
+
+h1
+{
+    float: auto;
+    font-family: inherit;
+    font-size: 60px;
+    margin-left: 290px;
+    margin-top: 30px;
+    margin-bottom: 0px;
+    margin-right: auto;
+}
+
+.logo
+{
+    float: left;
+    margin-top: 10px;
+    box-sizing: 50%;
+}
+
+.image Himalayan%20Wonders%20Logo.png
+{
+    height: 80px;
+    width: 100px;
+}
+.image
+{
+    box-sizing: 75%;
+    float:left;
+    padding-top: 0px;
+    margin-top: 80px;
+    margin-right: auto;
+    margin-left: 0px;
+}
+
+.Link
+{   
+    float: auto;
+    padding: 25px;
+    padding-bottom: 10px;
+    padding-left: 0px;
+    font-size: 35px;
+    margin-top: 25px;
+    margin-left: 900px;
+    margin-right: 100px;
+}
+
+#Email
+{
+    width: 600px;
+    height: 40px;
+    border: 1px solid #4a4a4a; 
+    border-radius: 500px;
+    font-size: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.Subscribe
+{
+  display: block;
+  width: 100%;
+  border: none;
+  background-color: black;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+}
